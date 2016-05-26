@@ -1,0 +1,1 @@
+Run Assig4.java with one of the text files to see the solutions to the maze. The solutions will be printed to the command line.
